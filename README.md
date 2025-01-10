@@ -3,3 +3,4 @@ PCB designed using easyEDA. This PCB is intended to be an easy to wire breakout 
 WAGO connectors are used to easily connect and disconnect the board in the PLC box.
 A separate module is used to amplify the signal and read strain.
 ![Before PLC Assembly](IMG_1108.JPG)
+![Solidworks 3D Print PLC Mount](Assembly.PNG)
