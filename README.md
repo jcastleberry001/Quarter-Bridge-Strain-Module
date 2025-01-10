@@ -1,0 +1,1 @@
+# Quarter-Bridge-Strain-Module
